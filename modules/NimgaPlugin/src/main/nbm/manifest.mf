@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+OpenIDE-Module-Name: Nimga Plugin
+OpenIDE-Module-Short-Description: Import data from Nimga database (Bolt)
+OpenIDE-Module-Long-Description: Plugin for importing data from Nimga graph database using Bolt protocol
+OpenIDE-Module-Display-Category: Import
